@@ -2,10 +2,10 @@
 
 <img src="./assets/profile-hero.svg" alt="Vardhan Kushwaha — Software Engineering and Applied AI" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-VardhanVersion2-181717?style=flat-square&logo=github)](https://github.com/VardhanVersion2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vk--29-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://vk-29.vercel.app)
-[![Codeforces](https://img.shields.io/badge/Codeforces-VardhanK-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VardhanK)
-[![Projects](https://img.shields.io/badge/Projects-Explore-7c3aed?style=flat-square&logo=github)](https://github.com/VardhanVersion2?tab=repositories)
+[GitHub](https://github.com/VardhanVersion2)
+[Portfolio](https://vk-29.vercel.app)
+[Codeforces](https://codeforces.com/profile/VardhanK)
+[Projects](https://github.com/VardhanVersion2?tab=repositories)
 
 **Computer Science Undergraduate · Software Engineering · Applied AI & Machine Learning**
 
@@ -158,9 +158,9 @@ I practise DSA with an emphasis on recognising reusable patterns and explaining 
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-VardhanK-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VardhanK)
-[![LeetCode solutions](https://img.shields.io/badge/LeetCode-Solutions%20Repository-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/VardhanVersion2/LeetCode-Solved-Problems)
-[![NeetCode](https://img.shields.io/badge/NeetCode-Practice-111827?style=for-the-badge&logo=github)](https://github.com/VardhanVersion2/neetcode-submissions)
+[Codeforces](https://codeforces.com/profile/VardhanK)
+[LeetCode solutions](https://github.com/VardhanVersion2/LeetCode-Solved-Problems)
+[NeetCode](https://github.com/VardhanVersion2/neetcode-submissions)
 
 </div>
 
@@ -200,9 +200,9 @@ ANALYSE TIME / SPACE
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VardhanVersion2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://vk-29.vercel.app)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Connect-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VardhanK)
+[GitHub](https://github.com/VardhanVersion2)
+[Portfolio](https://vk-29.vercel.app)
+[Codeforces](https://codeforces.com/profile/VardhanK)
 
 </div>
 
