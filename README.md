@@ -1,708 +1,211 @@
-<!-- =========================================================
-     PREMIUM GITHUB PROFILE
-     Replace every YOUR_* placeholder
-========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=VARDHAN%20KUSHWAHA&fontSize=48&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20DSA%20%7C%20BACKEND&descAlignY=58&descSize=17&fontColor=ffffff&animation=fadeIn&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8" width="100%"/>
+<img src="./assets/profile-hero.svg" alt="Vardhan Kushwaha — Software Engineering and Applied AI" width="100%" />
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-VardhanVersion2-181717?style=flat-square&logo=github)](https://github.com/VardhanVersion2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vk--29-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://vk-29.vercel.app)
+[![Codeforces](https://img.shields.io/badge/Codeforces-VardhanK-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VardhanK)
+[![Projects](https://img.shields.io/badge/Projects-Explore-7c3aed?style=flat-square&logo=github)](https://github.com/VardhanVersion2?tab=repositories)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+useful+software%2C+one+system+at+a+time.;DSA+%E2%86%92+Engineering+%E2%86%92+AI;Turning+ideas+into+working+products.;Learn+deeply.+Build+boldly.+Ship+consistently." />
+**Computer Science Undergraduate · Software Engineering · Applied AI & Machine Learning**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUSED%20ON-Software%20Engineering-2563EB?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/BUILDING-AI%20%26%20Backend-0EA5E9?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LEARNING-DSA%20%26%20CP-7C3AED?style=for-the-badge&labelColor=020617"/>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+*I enjoy turning complex problems into useful, testable software — from algorithms and backend systems to data-driven applications.*
 
 </div>
 
 ---
 
-## ✦ ABOUT
+## About
 
-<table>
-<tr>
+I'm **Vardhan Kushwaha**, a B.Tech Computer Science student (2029 batch), interested in the intersection of **software engineering, problem solving and applied AI/ML**.
 
-<td width="62%" valign="top">
+My work and learning currently revolve around three connected areas:
 
-### Building the engineer behind the code.
+- **Problem solving:** Data structures, algorithms, Java and competitive programming. I focus on understanding patterns, invariants and trade-offs rather than memorising solutions.
+- **Software engineering:** Backend development, REST APIs, databases, full-stack applications, integration and maintainable project structure.
+- **Applied AI/ML:** Dataset exploration, preprocessing, feature engineering, classification workflows, model evaluation and practical LLM-powered applications.
 
-I’m a **B.Tech Computer Science student** interested in the part of software engineering where **problem solving meets product building**.
+> **My engineering loop:** Understand the problem → design the system → build a working version → test its limits → improve with evidence.
 
-I spend my time working across three connected layers:
+## My technical focus
 
-**01 — Problem Solving**  
-Algorithms, data structures, competitive programming and pattern recognition.
+<div align="center">
+<img src="./assets/engineering-map.svg" alt="Problem solving, software engineering, and applied AI/ML focus areas" width="100%" />
+</div>
 
-**02 — Engineering**  
-Backend systems, APIs, databases, deployment and software architecture.
+| Focus | Current direction |
+|:--|:--|
+| **DSA & problem solving** | Arrays, hashing, two pointers, sliding window, binary search, trees, graphs and dynamic programming. |
+| **Backend engineering** | Java, Spring Boot, REST APIs, databases, authentication and service integration. |
+| **Applied AI / ML** | Python, data analysis, feature engineering, classification, evaluation and LLM integration. |
+| **Product development** | React-based interfaces, full-stack integration, deployment and practical user workflows. |
 
-**03 — Intelligence**  
-AI, LLM systems and practical intelligent applications.
+## Technical toolkit
 
-I’m less interested in simply *finishing a project* and more interested in understanding:
+> These are technologies used across my repositories and current learning. This list does not imply expert-level proficiency in every tool.
 
-> **Why does this system work, how can it fail, and how can it become better?**
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge&labelColor=020617"/>
-
-<br/>
-
-<sub>Currently turning knowledge into systems.</sub>
-
-</td>
-
-</tr>
-</table>
+| Area | Technologies |
+|:--|:--|
+| **Languages** | `Java` `Python` `C` `C++` `JavaScript` `TypeScript` |
+| **Frontend** | `HTML5` `CSS3` `React` `Next.js` `Vite` `Tailwind CSS` |
+| **Backend & APIs** | `Spring Boot` `Node.js` `Express` `FastAPI` `REST APIs` |
+| **AI / ML & Data** | `NumPy` `Pandas` `scikit-learn` `Matplotlib` `Seaborn` `Jupyter` `LLM Integration` `Gemini API` |
+| **Databases** | `PostgreSQL` `MySQL` `MongoDB` |
+| **Tools & Platforms** | `Git` `GitHub` `Docker` `Linux` `Vercel` `Railway` `n8n` |
 
 ---
 
-## ◈ THE CURRENT MODE
+## Featured projects
 
-<table>
-<tr>
+<div align="center">
+<img src="./assets/project-showcase.svg" alt="Featured projects: KarmaTute, SocialSentinel, DHIMAYA and We Live" width="100%" />
+</div>
 
-<td align="center" width="25%">
+### 1. KarmaTute — AI Competency & Assessment Platform
 
-### 🧠
+**An AI-enabled competency-gap and personalised learning platform** developed for Smart India Hackathon problem statement 26101.
 
-**DSA**
+- **Contribution:** Team Lead; system architecture and problem framing for Team INDIEFORGE.
+- **Product idea:** Connect competency gaps with targeted assessments, AI-assisted guidance and learning actions.
+- **Technology:** React, Vite, Tailwind CSS, Java 17, Spring Boot, REST APIs and Docker Compose.
 
-Pattern recognition  
-Problem solving  
-Competitive Programming
+[Repository](https://github.com/VardhanVersion2/KarmaTute-AI-Competency-Based-Platform-for-Officials-PS26101) · [Live project](https://karma-tute-ai-competency-based-plat.vercel.app)
 
-</td>
+### 2. SocialSentinel AI — Social Bot Detection
 
-<td align="center" width="25%">
+**An applied machine-learning project** exploring behavioural signals to distinguish automated social-media accounts from human users using labelled data.
 
-### ⚙️
+- **Dataset direction:** Cresci-2017.
+- **Workflow:** Dataset inspection → cleaning → behavioural feature engineering → model training → evaluation and error analysis.
+- **Technology:** Python, Pandas, NumPy, scikit-learn, Matplotlib and Seaborn.
+- **Status:** Work in progress. Performance metrics will be published only after reproducible evaluation.
 
-**BACKEND**
+[ML benchmark repository](https://github.com/VardhanVersion2/Sentinal-AI-Applied-ML-Bot-Detection-Classification-Benchmark) · [Data analysis repository](https://github.com/VardhanVersion2/Social-Sentinal-Data-Analysis-Cleaning-) · [Dataset source](https://botometer.osome.iu.edu/bot-repository/)
 
-APIs  
-Databases  
-Architecture
+### 3. DHIMAYA — Voice-Driven AI Automation
 
-</td>
+An AI automation project concept connecting natural-language voice input with reasoning and workflow execution.
 
-<td align="center" width="25%">
+- **Focus:** Intent understanding, structured execution payloads, tool integrations and workflow orchestration.
+- **Technology:** Python, FastAPI, Next.js and n8n.
 
-### 🤖
+[Repository](https://github.com/VardhanVersion2/DHIMAYA---COMBINED-AI-AUTOMATION-TOOL-)
 
-**AI**
+### 4. We — Live Happening & Aid
 
-LLMs  
-AI systems  
-Intelligent products
+A geospatial emergency-awareness and mutual-aid application focused on incident reporting, location-based awareness and coordination of support.
 
-</td>
+- **Focus:** Incident reporting, crisis maps, aid discovery and responder workflows.
+- **Technology:** React, TypeScript, Node.js, PostgreSQL and Gemini API.
 
-<td align="center" width="25%">
+[Repository](https://github.com/VardhanVersion2/We---Live-Happening-and-Aid)
 
-### 🌐
+### 5. VK-29 — Personal Engineering Portfolio
 
-**OPEN SOURCE**
+My personal portfolio for presenting projects, technical interests and engineering work, including an AI-powered portfolio assistant.
 
-Contributions  
-Collaboration  
-Real codebases
+- **Technology:** Next.js, TypeScript and Gemini integration.
 
-</td>
+[Repository](https://github.com/VardhanVersion2/VK-29) · [Live portfolio](https://vk-29.vercel.app)
 
-</tr>
-</table>
+### 6. Authora — Library Management Backend
+
+A Java backend project for library operations, structured around a layered Controller–Service–Repository architecture.
+
+- **Technology:** Java, Spring Boot, Spring Data JPA and Maven.
+- **Database options in project documentation:** PostgreSQL / MySQL, with H2 for local testing.
+
+[Repository](https://github.com/VardhanVersion2/Authora-Library-management-system)
+
+### More projects & practice
+
+| Project | Area | Link |
+|:--|:--|:--|
+| **PutzenHire** | TypeScript application | [Repository](https://github.com/VardhanVersion2/PutzenHire) |
+| **Campus Saarthi** | Teacher / admin dashboard | [Repository](https://github.com/VardhanVersion2/Campus-Saarthi---Teacher-DsshBoard) |
+| **K-Yogi** | Web application | [Repository](https://github.com/VardhanVersion2/KYogi-) · [Live](https://k-yogi.vercel.app) |
+| **Attendance Tracker & Analyzer** | Attendance analysis tool | [Repository](https://github.com/VardhanVersion2/Attendance-Tracker-and-Analyzer) · [Live](https://attenguide.netlify.app/) |
+| **LeetCode Solved Problems** | Java DSA practice | [Repository](https://github.com/VardhanVersion2/LeetCode-Solved-Problems) |
+| **NeetCode Submissions** | Interview problem practice | [Repository](https://github.com/VardhanVersion2/neetcode-submissions) |
+| **Hall of PRs** | Open-source contribution practice | [Repository](https://github.com/VardhanVersion2/Hall-of-PRs-Vardhan-Kushwaha) |
 
 ---
 
-## ⚡ TECHNICAL TOOLKIT
+## Applied AI / ML — how I approach a problem
+
+I want to understand the full machine-learning lifecycle, not just call a model's `fit()` method.
+
+<div align="center">
+<img src="./assets/ml-pipeline.svg" alt="Machine learning workflow: data, cleaning, features, model and evaluation" width="100%" />
+</div>
+
+| Stage | Questions I want to answer |
+|:--|:--|
+| **Data understanding** | What does each row represent? What are the labels, schema and data-quality issues? |
+| **Preprocessing** | How should missing values, duplicates, inconsistent types and class imbalance be handled? |
+| **Feature engineering** | Which measurable signals represent the behaviour we want to model? |
+| **Training** | What is a simple baseline? How do we prevent data leakage? |
+| **Evaluation** | What do precision, recall, F1-score and the confusion matrix reveal? |
+| **Error analysis** | Which examples fail, why do they fail, and what limitations remain? |
+
+**Current interests:** Behavioural classification, data-centric ML, model evaluation, practical LLM applications and AI-powered developer tools.
+
+---
+
+## Problem solving & competitive programming
+
+I practise DSA with an emphasis on recognising reusable patterns and explaining the reasoning behind an approach.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark"/>
-
-</td>
-
-<td align="center" width="33%">
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb&theme=dark"/>
-
-</td>
-
-<td align="center" width="33%">
-
-### ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
-
-</td>
-</tr>
-</table>
+[![Codeforces](https://img.shields.io/badge/Codeforces-VardhanK-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VardhanK)
+[![LeetCode solutions](https://img.shields.io/badge/LeetCode-Solutions%20Repository-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/VardhanVersion2/LeetCode-Solved-Problems)
+[![NeetCode](https://img.shields.io/badge/NeetCode-Practice-111827?style=for-the-badge&logo=github)](https://github.com/VardhanVersion2/neetcode-submissions)
 
 </div>
 
----
+**Patterns I work with:**
 
-# 🚀 PROJECTS
-
-### Where ideas become software.
-
-I prefer projects that solve a **specific problem**, have a clear technical core, and can grow beyond a classroom prototype.
-
-<br/>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🟦 KarmaTute
-
-### AI Competency-Based Assessment Engine
-
-A system focused on identifying competency gaps and turning uploaded learning material into targeted assessment experiences.
-
-**Core**
-
-`AI` · `Competency Mapping` · `MCQ Generation` · `Backend`
-
-**Why it matters**
-
-Instead of simply generating questions, the system is designed around the underlying **competency gap**.
-
-<br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/KarmaTute">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%86%92-2563EB?style=for-the-badge&labelColor=020617"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🟪 Project Lab
-
-### Experiments → Systems → Products
-
-A collection of engineering experiments covering algorithms, backend development, AI prototypes and developer tools.
-
-**Core**
-
-`Java` · `Python` · `APIs` · `AI` · `DSA`
-
-The goal:
-
-> Build things that teach me something I can use in the next thing.
-
-<br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL-%E2%86%92-7C3AED?style=for-the-badge&labelColor=020617"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-### ✨ Project Spotlight
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-**01**
-
-### Problem
-
-Start with a real constraint.
-
-> What is actually broken?
-
-</td>
-
-<td width="33%" valign="top">
-
-**02**
-
-### System
-
-Design the technical solution.
-
-> What should the architecture look like?
-
-</td>
-
-<td width="33%" valign="top">
-
-**03**
-
-### Proof
-
-Measure and improve.
-
-> Does the solution actually work?
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧩 PROBLEM SOLVING
-
-### Training the thinking, not just the syntax.
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-<img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Pattern Recognition
+`Arrays & Strings` · `Hashing` · `Two Pointers` · `Sliding Window` · `Binary Search` · `Greedy` · `Stacks & Queues` · `Trees & Graphs` · `BFS / DFS` · `Dynamic Programming`
 
 ```text
-Array
-  ↓
-Hashing
-  ↓
-Two Pointers
-  ↓
-Sliding Window
-  ↓
-Binary Search
-  ↓
-Greedy
-  ↓
-Recursion
-  ↓
-Trees / Graphs
-  ↓
-Dynamic Programming
+OBSERVE THE CONSTRAINTS
+          ↓
+FIND THE INVARIANT
+          ↓
+CHOOSE THE DATA STRUCTURE
+          ↓
+DESIGN THE ALGORITHM
+          ↓
+DRY-RUN EDGE CASES
+          ↓
+IMPLEMENT & TEST
+          ↓
+ANALYSE TIME / SPACE
 ```
 
-</td>
+## Programs & community
 
-<td width="50%" valign="top">
+- **Smart India Hackathon · PS26101:** Team Lead for Team INDIEFORGE, working on KarmaTute; focused on system architecture and problem framing.
+- **GirlScript Summer of Code:** Selected participant.
 
-### My solving loop
+## What I'm building towards
 
-```text
-OBSERVE
-   ↓
-DECONSTRUCT
-   ↓
-RECOGNIZE
-   ↓
-DESIGN
-   ↓
-IMPLEMENT
-   ↓
-TEST
-   ↓
-OPTIMIZE
-```
+- **Strong CS fundamentals:** Data structures, algorithms, operating systems, databases and computer networks.
+- **Reliable software systems:** Clean APIs, persistence, testing, security and deployment.
+- **Applied AI/ML capability:** Data-centric experimentation, model evaluation and practical AI integration.
+- **Useful products:** Software that addresses a real need and can be demonstrated, tested and maintained.
 
-The objective is to make **recognition faster than brute-force thinking**.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏗️ ENGINEERING MINDSET
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### DESIGN
-
-Think before coding.
-
-Architecture  
-Trade-offs  
-Interfaces
-
-</td>
-
-<td width="33%" align="center">
-
-### BUILD
-
-Make the system work.
-
-Code  
-APIs  
-Data  
-Integration
-
-</td>
-
-<td width="33%" align="center">
-
-### IMPROVE
-
-Make it survive reality.
-
-Testing  
-Debugging  
-Performance  
-Maintainability
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🤖 AI / LLM EXPLORATION
+## Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020617,50:172554,100:1d4ed8&text=AI%20%2B%20SOFTWARE&fontColor=ffffff&fontSize=28&animation=fadeIn" width="90%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VardhanVersion2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://vk-29.vercel.app)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Connect-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VardhanK)
 
 </div>
 
-<br/>
-
-I’m exploring AI from an **engineering perspective** rather than treating it as a black box.
-
-```text
-Models
-  ↓
-Prompts
-  ↓
-Agents
-  ↓
-Tools
-  ↓
-APIs
-  ↓
-Products
-```
-
-Areas I’m interested in:
-
-`LLM Applications` · `AI Agents` · `Custom AI Services` · `Developer Tools` · `AI + Education`
-
----
-
-# 🌌 WHAT I'M BUILDING TOWARD
-
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### 01
-
-**DSA**
-
-Strong problem solving
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-### 02
-
-**BACKEND**
-
-Reliable systems
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-### 03
-
-**AI**
-
-Intelligent capabilities
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-### 04
-
-**PRODUCT**
-
-Useful software
-
-</td>
-
-</tr>
-</table>
-
-### Ultimately:
-
-**Strong fundamentals + strong engineering + useful products.**
-
-</div>
-
----
-
-# 📊 GITHUB INTELLIGENCE
-
-<div align="center">
-
-<img height="175"
-src="https://github-readme-stats.vercel.app/api?username=VardhanVersion2&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent"/>
-
-<img height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanVersion2&layout=compact&langs_count=8&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-# 🏆 HIGHLIGHTS
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 🧠
-
-**Problem Solver**
-
-Consistent DSA & CP practice
-
-</td>
-
-<td width="25%" align="center">
-
-### 🚀
-
-**Builder**
-
-Projects over tutorials
-
-</td>
-
-<td width="25%" align="center">
-
-### 🌍
-
-**Open Source**
-
-Learning in public
-
-</td>
-
-<td width="25%" align="center">
-
-### 🔬
-
-**Explorer**
-
-AI + Engineering experiments
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📈 CONTRIBUTION SIGNAL
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VardhanVersion2&bg_color=020617&color=60a5fa&line=3b82f6&point=93c5fd&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation"/>
-
-</div>
-
----
-
-# 🔭 CURRENTLY LEARNING
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### NOW
-
-```diff
-+ Advanced DSA
-+ Competitive Programming
-+ Backend Development
-+ AI / LLM Engineering
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### NEXT
-
-```diff
-+ System Design
-+ Docker & Cloud
-+ Production Architecture
-+ Open Source
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧭 THE ROAD AHEAD
-
-```text
-         FUNDAMENTALS
-              │
-              ▼
-       PROBLEM SOLVING
-              │
-              ▼
-        SOFTWARE DESIGN
-              │
-              ▼
-       BACKEND SYSTEMS
-              │
-              ▼
-         AI ENGINEERING
-              │
-              ▼
-        REAL PRODUCTS
-              │
-              ▼
-     PRODUCTION-READY SYSTEMS
-```
-
----
-
-# ✦ BEYOND CODE
-
-<div align="center">
-
-### I’m especially interested in this intersection:
-
-**Computer Science × AI × Human Behavior × Education**
-
-<br/>
-
-Because some of the most interesting engineering problems
-aren’t purely technical.
-
-</div>
-
----
-
-# 📬 LET'S CONNECT
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/LET'S%20BUILD-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
-
-<br/><br/>
-
-### `Think clearly. Build deeply. Ship boldly.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:38bdf8,35:2563eb,70:0f172a,100:020617&animation=fadeIn" width="100%"/>
-
+<img src="./assets/profile-footer.svg" alt="Think clearly, build deeply, ship thoughtfully" width="100%" />
 </div>
